@@ -1,7 +1,7 @@
 # Aleatorio
 
-- [Índice GZ](README.md#índice)
-- [Index EN](README.md#index)
+- [Galego](README.md#índice)
+- [English](README.md#index)
 
 ## Índice
 Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar aleatoriedade.
