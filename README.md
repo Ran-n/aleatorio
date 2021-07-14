@@ -10,7 +10,7 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 - [Moedas](README.md#moedas)
     - [Moeda 1](README.md#moeda-1)
 - [Dados](README.md#dados)
-    - [Dado 1](README.md#dado%201)
+    - [Dado 1](README.md#dado-1)
 
 ### Moedas
 #### Moeda 1
@@ -35,9 +35,9 @@ Group of files with real results of several random event generators.
 
 - [Donations](README.md#donations)
 - [Coins](README.md#coins)
-    - [Coin 1](README.md#coin%201)
+    - [Coin 1](README.md#coin-1)
 - [Dices](README.md#dices)
-    - [Dice 1](README.md#dice%201)
+    - [Dice 1](README.md#dice-1)
 
 ### Coins
 #### Coin 1
