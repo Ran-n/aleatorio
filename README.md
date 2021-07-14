@@ -8,9 +8,9 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 - [Doazóns](README.md#doazóns)
 - [Moedas](README.md#moedas)
-    - [Moeda 1](README.md#moeda&#32;1)
+    - [Moeda 1](README.md#moeda%201)
 - [Dados](README.md#dados)
-    - [Dado 1](README.md#dado&#32;1)
+    - [Dado 1](README.md#dado%201)
 
 ### Moedas
 #### Moeda 1
@@ -35,9 +35,9 @@ Group of files with real results of several random event generators.
 
 - [Donations](README.md#donations)
 - [Coins](README.md#coins)
-    - [Coin 1](README.md#coin&#32;1)
+    - [Coin 1](README.md#coin%201)
 - [Dices](README.md#dices)
-    - [Dice 1](README.md#dice&#32;1)
+    - [Dice 1](README.md#dice%201)
 
 ### Coins
 #### Coin 1
