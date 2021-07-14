@@ -2,7 +2,7 @@
 # ----------------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 19:05:52
-#+ Editado:	15/07/2021 00:28:09
+#+ Editado:	15/07/2021 00:42:09
 # ----------------------------------------------
 
 porcentaxe() {
@@ -10,6 +10,10 @@ porcentaxe() {
 }
 
 # ----------------------------------------------
+
+# se non mete a variale 1 co nome do ficheiro fora
+# de meter máis variables das precisas da igual porque no no mira
+[ -z ${1+x} ] && echo 'Erro: Especifica o arquivo' && exit 1
 
 fich='.moeda.temp'
 
@@ -25,7 +29,7 @@ vx=$(grep -o x $fich | wc -l)
 rm $fich
 
 echo ''
-echo -n 'Porcentaxe ['$((100/2))']'; echo -n '\t\t'; echo 'Veces ['vtotal']'
+echo -n 'Porcentaxe ['$((100/2))'%]'; echo -n '\t'; echo 'Veces ['$vtotal']'
 echo -n 'cara: '; porcentaxe $vo $vtotal; echo -n '\t\t'; echo 'cara: '$vo
 echo -n 'cruz: '; porcentaxe $vx $vtotal; echo -n '\t\t'; echo 'cruz: '$vx
 echo ''
