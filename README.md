@@ -6,13 +6,20 @@
 ## Índice
 Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar aleatoriedade.
 
-- [Moeda](README.md#moeda)
-- [Icosahedro](README.md#icosahedro)
 - [Doazóns](README.md#doazóns)
+- [Moedas](README.md#moedas)
+    - [Moeda 1](README.md#moeda1)
+- [Dados](README.md#dados)
+    - [Dado 1](README.md#dado1)
 
-### Moeda
+### Moedas
+#### Moeda 1
+50 pts 1978-78
 
-### Icosahedro
+
+### Dados
+#### Dado 1
+Icosahedro
 
 ### Doazóns
 🙇🙇‍♀
@@ -26,13 +33,19 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 ## Index
 Group of files with real results of several random event generators.
 
-- [Coin](README.md#coin)
-- [Icosahedron](README.md#icosahedron)
 - [Donations](README.md#donations)
+- [Coins](README.md#coins)
+    - [Coin 1](README.md#coin1)
+- [Dices](README.md#dices)
+    - [Dice 1](README.md#dice1)
 
-### Coin
+### Coins
+#### Coin 1
+50 pts 1978-78
 
-### Icosahedron
+### Dices
+#### Dice 1
+Icosahedron
 
 ### Donations
 🙇🙇‍♀
