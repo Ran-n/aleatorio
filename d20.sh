@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 13:43:04
-#+ Editado:	14/07/2021 14:22:06
+#+ Editado:	14/07/2021 19:06:55
 # -----------------------------------------
 
 porcentaxe() {
@@ -58,45 +58,25 @@ echo 'Veces total: '$v20
 
 echo ''
 echo 'Porcentaxes'
-echo -n '0: '
-porcentaxe $v0 $v20
-echo -n '1: '
-porcentaxe $v1 $v20
-echo -n '2: '
-porcentaxe $v2 $v20
-echo -n '3: '
-porcentaxe $v3 $v20
-echo -n '4: '
-porcentaxe $v4 $v20
-echo -n '5: '
-porcentaxe $v5 $v20
-echo -n '6: '
-porcentaxe $v6 $v20
-echo -n '7: '
-porcentaxe $v7 $v20
-echo -n '8: '
-porcentaxe $v8 $v20
-echo -n '9: '
-porcentaxe $v9 $v20
-echo -n 'a: '
-porcentaxe $va $v20
-echo -n 'b: '
-porcentaxe $vb $v20
-echo -n 'c: '
-porcentaxe $vc $v20
-echo -n 'd: '
-porcentaxe $vd $v20
-echo -n 'e: '
-porcentaxe $ve $v20
-echo -n 'f: '
-porcentaxe $vf $v20
-echo -n 'g: '
-porcentaxe $vg $v20
-echo -n 'h: '
-porcentaxe $vh $v20
-echo -n 'i: '
-porcentaxe $vi $v20
-echo -n 'k: '
-porcentaxe $vk $v20
+echo -n '0: '; porcentaxe $v0 $v20
+echo -n '1: '; porcentaxe $v1 $v20
+echo -n '2: '; porcentaxe $v2 $v20
+echo -n '3: '; porcentaxe $v3 $v20
+echo -n '4: '; porcentaxe $v4 $v20
+echo -n '5: '; porcentaxe $v5 $v20
+echo -n '6: '; porcentaxe $v6 $v20
+echo -n '7: '; porcentaxe $v7 $v20
+echo -n '8: '; porcentaxe $v8 $v20
+echo -n '9: '; porcentaxe $v9 $v20
+echo -n 'a: '; porcentaxe $va $v20
+echo -n 'b: '; porcentaxe $vb $v20
+echo -n 'c: '; porcentaxe $vc $v20
+echo -n 'd: '; porcentaxe $vd $v20
+echo -n 'e: '; porcentaxe $ve $v20
+echo -n 'f: '; porcentaxe $vf $v20
+echo -n 'g: '; porcentaxe $vg $v20
+echo -n 'h: '; porcentaxe $vh $v20
+echo -n 'i: '; porcentaxe $vi $v20
+echo -n 'k: '; porcentaxe $vk $v20
 
 # -----------------------------------------
