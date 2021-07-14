@@ -2,26 +2,32 @@
 # ----------------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 19:05:52
-#+ Editado:	14/07/2021 19:21:47
+#+ Editado:	15/07/2021 00:28:09
 # ----------------------------------------------
 
 porcentaxe() {
-    awk -v a="$1" -v b="$2" 'BEGIN {print (a/b)*100}'
+    awk -v a="$1" -v b="$2" 'BEGIN {printf (a/b)*100}'
 }
 
 # ----------------------------------------------
 
-vtotal=$(wc -c "$1" | cut -d' ' -f1)
-vo=$(grep -o o $1 | wc -l)
-vx=$(grep -o x $1 | wc -l)
+fich='.moeda.temp'
+
+# tan só conservar caracteres con sentido
+# crease un ficheiro temporal para non modificar o ficheiro dado
+cat $1 | tr '[:upper:]' '[:lower:]' | sed 's/[^ox]//g' > $fich
+
+vtotal=$(wc -c $fich | cut -d' ' -f1)
+vo=$(grep -o o $fich | wc -l)
+vx=$(grep -o x $fich | wc -l)
+
+# eliminase o ficheiro temporal
+rm $fich
 
 echo ''
-echo 'Veces cara: '$vo
-echo 'Veces cruz: '$vx
-echo 'Veces total: '$vtotal
-
+echo -n 'Porcentaxe ['$((100/2))']'; echo -n '\t\t'; echo 'Veces ['vtotal']'
+echo -n 'cara: '; porcentaxe $vo $vtotal; echo -n '\t\t'; echo 'cara: '$vo
+echo -n 'cruz: '; porcentaxe $vx $vtotal; echo -n '\t\t'; echo 'cruz: '$vx
 echo ''
-echo -n 'Porcentaxe cara: '; porcentaxe $vo $vtotal
-echo -n 'Porcentaxe cruz: '; porcentaxe $vx $vtotal
 
 # ----------------------------------------------
