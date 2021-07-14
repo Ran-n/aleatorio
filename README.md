@@ -14,12 +14,12 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 ### Moedas
 #### Moeda 1
-50 pts 1978-78
+[50 pts 1978-78](moedas.md#Moeda-1)
 
 
 ### Dados
 #### Dado 1
-Icosahedro
+[Icosahedro](dados.md#Dado-1)
 
 ### Doazóns
 🙇🙇‍♀
@@ -41,11 +41,11 @@ Group of files with real results of several random event generators.
 
 ### Coins
 #### Coin 1
-50 pts 1978-78
+[50 pts 1978-78](moedas.md#Moeda-1)
 
 ### Dices
 #### Dice 1
-Icosahedron
+[Icosahedron](dados.md#Dado-1)
 
 ### Donations
 🙇🙇‍♀
