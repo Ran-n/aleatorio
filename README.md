@@ -8,7 +8,7 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 - [Doazóns](README.md#doazóns)
 - [Moedas](README.md#moedas)
-    - [Moeda 1](README.md#moeda%201)
+    - [Moeda 1](README.md#moeda-1)
 - [Dados](README.md#dados)
     - [Dado 1](README.md#dado%201)
 
