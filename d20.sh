@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 13:43:04
-#+ Editado:	14/07/2021 19:06:55
+#+ Editado:	14/07/2021 20:54:42
 # -----------------------------------------
 
 porcentaxe() {
@@ -30,8 +30,8 @@ ve=$(grep -o e $1 | wc -l)
 vf=$(grep -o f $1 | wc -l)
 vg=$(grep -o g $1 | wc -l)
 vh=$(grep -o h $1 | wc -l)
-vi=$(grep -o i $1 | wc -l)
 vk=$(grep -o k $1 | wc -l)
+vm=$(grep -o m $1 | wc -l)
 
 echo ''
 echo 'Veces 0: '$v0
@@ -44,16 +44,16 @@ echo 'Veces 6: '$v6
 echo 'Veces 7: '$v7
 echo 'Veces 8: '$v8
 echo 'Veces 9: '$v9
-echo 'Veces a: '$va
-echo 'Veces b: '$vb
-echo 'Veces c: '$vc
-echo 'Veces d: '$vd
-echo 'Veces e: '$ve
-echo 'Veces f: '$vf
-echo 'Veces g: '$vg
-echo 'Veces h: '$vh
-echo 'Veces i: '$vi
-echo 'Veces k: '$vk
+echo 'Veces A: '$va
+echo 'Veces B: '$vb
+echo 'Veces C: '$vc
+echo 'Veces D: '$vd
+echo 'Veces E: '$ve
+echo 'Veces F: '$vf
+echo 'Veces G: '$vg
+echo 'Veces H: '$vh
+echo 'Veces K: '$vk
+echo 'Veces M: '$vm
 echo 'Veces total: '$v20
 
 echo ''
@@ -68,15 +68,15 @@ echo -n '6: '; porcentaxe $v6 $v20
 echo -n '7: '; porcentaxe $v7 $v20
 echo -n '8: '; porcentaxe $v8 $v20
 echo -n '9: '; porcentaxe $v9 $v20
-echo -n 'a: '; porcentaxe $va $v20
-echo -n 'b: '; porcentaxe $vb $v20
-echo -n 'c: '; porcentaxe $vc $v20
-echo -n 'd: '; porcentaxe $vd $v20
-echo -n 'e: '; porcentaxe $ve $v20
-echo -n 'f: '; porcentaxe $vf $v20
-echo -n 'g: '; porcentaxe $vg $v20
-echo -n 'h: '; porcentaxe $vh $v20
-echo -n 'i: '; porcentaxe $vi $v20
-echo -n 'k: '; porcentaxe $vk $v20
+echo -n 'A: '; porcentaxe $va $v20
+echo -n 'B: '; porcentaxe $vb $v20
+echo -n 'C: '; porcentaxe $vc $v20
+echo -n 'D: '; porcentaxe $vd $v20
+echo -n 'E: '; porcentaxe $ve $v20
+echo -n 'F: '; porcentaxe $vf $v20
+echo -n 'G: '; porcentaxe $vg $v20
+echo -n 'H: '; porcentaxe $vh $v20
+echo -n 'K: '; porcentaxe $vk $v20
+echo -n 'M: '; porcentaxe $vm $v20
 
 # -----------------------------------------
