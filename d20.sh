@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 13:43:04
-#+ Editado:	15/07/2021 00:42:49
+#+ Editado:	15/07/2021 12:12:07
 # -----------------------------------------
 
 porcentaxe() {
@@ -13,7 +13,7 @@ porcentaxe() {
 
 # se non mete a variale 1 co nome do ficheiro fora
 # de meter máis variables das precisas da igual porque no no mira
-[ -z ${1+x} ] && echo 'Erro: Especifica o arquivo' && exit 1
+[ -z ${1+x} ] && echo 'Erro: Especifica o arquivo' && exit 0
 
 fich='.d20.temp'
 
