@@ -1,7 +1,8 @@
-# Dados
+[🏠](README.md)
 - [Galego](dados.md#índice)
 - [English](dados.md#index)
 
+# Dados
 ## Índice
 - [Dado 1: Icosahedro](dados.md#dado-1)
 - [Dado 2: Tetrahedro truncado](dados.md#dado-2)
@@ -49,6 +50,7 @@ Sistema cuaternario usado:
 |:---------:   |:-:    |:-:    |:-:    |:-:    |
 | Centesimal   | 1     | 2     | 3     | 0     |
 
+# Dice
 ## Index
 - [Dice 1: Icosahedron](dados.md#dice-1)
 - [Dice 2: Truncated Tetrahedron](dados.md#dice-2)
