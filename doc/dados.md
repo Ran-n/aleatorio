@@ -8,6 +8,7 @@
 - [Dado 2](doc/datos.md#dado-2)
 
 ### Dado 1
+![](media/dado-1.jpg)
 | Atributo  | Información   |
 |:--------: |:-----------:  |
 |   Tipo    |  Icosahedro   |
