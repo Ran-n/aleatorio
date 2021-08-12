@@ -1,11 +1,11 @@
 # Dados
 
-- [Galego](doc/dados.md#índice)
-- [English](doc/dados.md#index)
+- [Galego](dados.md#índice)
+- [English](dados.md#index)
 
 ## Índice
-- [Dado 1](doc/dados.md#dado-1)
-- [Dado 2](doc/dados.md#dado-2)
+- [Dado 1](dados.md#dado-1)
+- [Dado 2](dados.md#dado-2)
 
 ### Dado 1
 <img src="../media/dado-1.jpg" width="100" alt="Imaxe do dado 1" title="Dado 1">
@@ -35,8 +35,8 @@ Sistema cuaternario usado:
 
 
 ## Index
-- [Dice 1](doc/datos.md#dice-1)
-- [Dice 2](doc/datos.md#dice-2)
+- [Dice 1](datos.md#dice-1)
+- [Dice 2](datos.md#dice-2)
 
 
 ### Dice 1
