@@ -4,8 +4,8 @@
 - [English](doc/dados.md#index)
 
 ## Índice
-- [Dado 1](doc/datos.md#dado-1)
-- [Dado 2](doc/datos.md#dado-2)
+- [Dado 1](doc/dados.md#dado-1)
+- [Dado 2](doc/dados.md#dado-2)
 
 ### Dado 1
 <img src="../media/dado-1.jpg" width="100" alt="Imaxe do dado 1" title="Dado 1">
