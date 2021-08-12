@@ -35,8 +35,8 @@ Sistema cuaternario usado:
 
 
 ## Index
-- [Dice 1](datos.md#dice-1)
-- [Dice 2](datos.md#dice-2)
+- [Dice 1](dados.md#dice-1)
+- [Dice 2](dados.md#dice-2)
 
 
 ### Dice 1
