@@ -36,6 +36,8 @@ Sistema cuaternario usado:
 | Cuaternario   | 1     | 2     | 3     | 0     |
 
 ### Dado 3
+[dado-3.txt](../src/dados/dado-3.txt)  
+<img src="../media/dado-3.jpg" width="100" alt="Imaxe do dado 3" title="Dado 3">  
 
 ## Index
 - [Dice 1: Icosahedron](dados.md#dice-1)
@@ -71,3 +73,5 @@ Sistema cuaternario usado:
 | Quaternary   | 1     | 2     | 3     | 0     |
 
 ### Dice 3
+[dice-3.txt](../src/dados/dado-3.txt)  
+<img src="../media/dado-3.jpg" width="100" alt="Image of dice 3" title="Dice 3">
