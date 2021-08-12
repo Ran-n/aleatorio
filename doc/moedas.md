@@ -1,3 +1,5 @@
+[🏠](../README.md)
+
 - [Galego](dados.md#índice)
 - [English](dados.md#index)
 
