@@ -42,7 +42,7 @@ Group of files with real results of several random event generators.
 - [Donations](README.md#donations)
 - [Scripts](README.md#scripts)
 - [Coins](doc/moedas.md#index)
-    - [Coin 1](doc/moedas.md#moeda-1)
+    - [Coin 1: 50 pts 1978-78](doc/moedas.md#moeda-1)
 - [Dices](doc/dados.md#index)
     - [Dice 1: Icosahedron](doc/dados.md#dado-1)
     - [Dice 2: Truncated tetrahedron](doc/dados.md#dado-2)
@@ -57,10 +57,6 @@ For vigesinal systems.
 
 ### d100
 For centesimal systems.
-
-### Coins
-#### Coin 1
-[50 pts 1978-78](doc/moedas.md#moeda-1)
 
 ### Donations
 🙇🙇‍♀
