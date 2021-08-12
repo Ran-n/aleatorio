@@ -4,7 +4,7 @@
 
 ## Índice
 - [Dado 1: Icosahedro](dados.md#dado-1)
-- [Dado 2: Tetrahedro](dados.md#dado-2)
+- [Dado 2: Tetrahedro truncado](dados.md#dado-2)
 - [Dado 3: Hectaedro](dados.md#dado-3)
 
 ### Dado 1
@@ -25,10 +25,10 @@ Sistema Vixesimal usado:
 [dado-2.txt](../src/dados/dado-2.txt)  
 <img src="../media/dado-2.jpg" width="100" alt="Imaxe do dado 2" title="Dado 2">
 
-| Atributo  | Información   |
-|:--------: |:-----------:  |
-|   Tipo    |  Tetrahedro   |
-|   Caras   |      4        |
+| Atributo  | Información            |
+|:--------: |:-----------:           |
+|   Tipo    |  Tetrahedro Truncado   |
+|   Caras   |      4                 |
 
 Sistema cuaternario usado:
 |  Decimal      | 1     | 2     | 3     | 4     |
@@ -41,7 +41,7 @@ Sistema cuaternario usado:
 
 ## Index
 - [Dice 1: Icosahedron](dados.md#dice-1)
-- [Dice 2: Tetrahedron](dados.md#dice-2)
+- [Dice 2: Truncated Tetrahedron](dados.md#dice-2)
 - [Dice 2: Hecotahedron](dados.md#dice-3)
 
 ### Dice 1
@@ -62,10 +62,10 @@ Vigesimal system used:
 [dice-2.txt](../src/dados/dado-2.txt)  
 <img src="../media/dado-2.jpg" width="100" alt="Image of dice 2" title="Dice 2">
 
-| Feature   | Information                              |
-|:--------: |:-----------:                             |
-|   Type    |  Triangular pyramid with cutted tips     |
-|   Sides   |      4                                   |
+| Feature   | Information                |
+|:--------: |:-----------:               |
+|   Type    |  Truncated Tetrahedron     |
+|   Sides   |      4                     |
 
 Sistema cuaternario usado:
 |  Denary      | 1     | 2     | 3     | 4     |
