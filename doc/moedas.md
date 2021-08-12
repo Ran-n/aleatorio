@@ -1,7 +1,7 @@
-# Moedas
 - [Galego](dados.md#índice)
 - [English](dados.md#index)
 
+# Moedas
 ## Índice
 - [Moeda 1](moedas.md#moeda-1)
 
@@ -24,6 +24,7 @@
 [Info in ucoin.net (en)](https://en.ucoin.net/coin/spain-50-pesetas-1975/?tid=9331)  
 [Info en ucoin.net (cas)](https://es.ucoin.net/coin/spain-50-pesetas-1975/?tid=9331)
 
+# Coins
 ## Index
 - [Coin 1](moedas.md#coin-1)
 
