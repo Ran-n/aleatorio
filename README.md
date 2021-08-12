@@ -12,7 +12,7 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
     - [Moeda 1](README.md#moeda-1)
 - [Dados](README.md#dados)
     - [Dado 1: Icosahedro](README.md#dado-1)
-    - [Dado 2: Tetrahedro](README.md#dado-2)
+    - [Dado 2: Tetrahedro truncado](README.md#dado-2)
     - [Dado 3: Hectaedro](README.md#dado-3)
 
 ### Escripts
@@ -37,7 +37,7 @@ Para sistemas centesimais.
 [Icosahedro](doc/dados.md#Dado-1)  
 
 #### Dado 2
-[Tetrahedro](doc/dados.md#Dado-2)
+[Tetrahedro truncado](doc/dados.md#Dado-2)
 
 #### Dado 3
 [Hectaedro](doc/dados.md#Dado-3)
@@ -60,7 +60,7 @@ Group of files with real results of several random event generators.
     - [Coin 1](README.md#coin-1)
 - [Dices](README.md#dices)
     - [Dice 1: Icosahedron](README.md#dice-1)
-    - [Dice 2: Tetrahedron](README.md#dice-2)
+    - [Dice 2: Truncated tetrahedron](README.md#dice-2)
     - [Dice 3: Hecotahedron](README.md#dice-3)
 
 ### Scripts
@@ -82,7 +82,7 @@ For centesimal systems.
 [Icosahedron](doc/dados.md#Dado-1)  
 
 #### Dice 2
-[Tetrahedron](doc/dados.md#Dado-2)
+[Truncated tetrahedron](doc/dados.md#Dado-2)
 
 #### Dice 3
 [Hecatohedron](doc/dados.md#Dado-3)
