@@ -10,8 +10,14 @@ Sistema Vixesimal usado:
 | Vixesimal     | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     |  A    |  B    |  C    |  D    |  E    |  F    |  G    |  H    |  K    |  M    |  0    |
 
 # Dado 2
-| Atributo  | Información   |
-|:--------: |:-----------:  |
+| Atributo  | Información                              |
+|:--------: |:-----------:                             |
 |   Tipo    |  Pirámide triangular de puntas truncadas |
-|   Caras   |      4       |
+|   Caras   |      4                                   |
+
+Sistema cuaternario usado:
+|  Decimal      | 1     | 2     | 3     | 4     |
+|:---------:    |:-:    |:-:    |:-:    |:-:    |
+| Cuaternario   | 1     | 2     | 3     | 0     |
+
 
