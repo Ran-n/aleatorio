@@ -7,11 +7,19 @@
 Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar aleatoriedade.
 
 - [Doazóns](README.md#doazóns)
+- [Escripts](README.md#escripts)
 - [Moedas](README.md#moedas)
     - [Moeda 1](README.md#moeda-1)
 - [Dados](README.md#dados)
     - [Dado 1](README.md#dado-1)
     - [Dado 2](README.md#dado-2)
+
+### Escripts
+#### d4
+Para sistemas cuaternarios.
+
+#### d20
+Para sistemas vixesimales.
 
 ### Moedas
 #### Moeda 1
@@ -37,11 +45,19 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 Group of files with real results of several random event generators.
 
 - [Donations](README.md#donations)
+- [Scripts](README.md#scripts)
 - [Coins](README.md#coins)
     - [Coin 1](README.md#coin-1)
 - [Dices](README.md#dices)
     - [Dice 1](README.md#dice-1)
     - [Dice 2](README.md#dice-2)
+
+### Scripts
+#### d4
+For quaternary systems.
+
+#### d20
+For vigesinal systems.
 
 ### Coins
 #### Coin 1
