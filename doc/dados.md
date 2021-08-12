@@ -89,7 +89,7 @@ Sistema cuaternario usado:
 | Feature   | Information       |
 |:--------: |:-----------:      |
 |   Type    |  Hecotahedron     |
-|   Sides   |      4            |
+|   Sides   |      100          |
 
 Sistema cuaternario usado:
 |  Denary      | 1     | 2     | 3     | 4     |
