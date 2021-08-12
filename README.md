@@ -21,6 +21,7 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 ### Dados
 #### Dado 1
 [Icosahedro](doc/dados.md#Dado-1)  
+#### Dado 2
 [Pirámide triangular](doc/dados.md#Dado-2)
 
 ### Doazóns
@@ -49,6 +50,7 @@ Group of files with real results of several random event generators.
 ### Dices
 #### Dice 1
 [Icosahedron](doc/dados.md#Dado-1)  
+#### Dice 2
 [Triangular Pyramid](doc/dados.md#Dado-2)
 
 ### Donations
