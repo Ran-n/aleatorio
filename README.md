@@ -8,8 +8,8 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 - [Doazóns](README.md#doazóns)
 - [Escripts](README.md#escripts)
-- [Moedas](README.md#moedas)
-    - [Moeda 1](README.md#moeda-1)
+- [Moedas](doc/moedas.md#indice)
+    - [Moeda 1: 50 pts 1978-78](doc/moedas.md#moeda-1)
 - [Dados](README.md#dados)
     - [Dado 1: Icosahedro](doc/dados.md#dado-1)
     - [Dado 2: Tetrahedro truncado](doc/dados.md#dado-2)
@@ -28,10 +28,6 @@ Para sistemas vixesimales.
 ### d100
 Para sistemas centesimais.
 
-### Moedas
-#### Moeda 1
-[50 pts 1978-78](doc/moedas.md#moeda-1)
-
 ### Doazóns
 🙇🙇‍♀
 | Moeda     | Dirección                                                                                         |
@@ -46,9 +42,9 @@ Group of files with real results of several random event generators.
 
 - [Donations](README.md#donations)
 - [Scripts](README.md#scripts)
-- [Coins](README.md#coins)
-    - [Coin 1](README.md#coin-1)
-- [Dices](README.md#dices)
+- [Coins](doc/moedas.md#index)
+    - [Coin 1](doc/moedas.md#moeda-1)
+- [Dices](doc/dados.md#index)
     - [Dice 1: Icosahedron](doc/dados.md#dado-1)
     - [Dice 2: Truncated tetrahedron](doc/dados.md#dado-2)
     - [Dice 3: Hecotahedron](doc/dados.md#dado-3)
