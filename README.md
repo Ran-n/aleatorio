@@ -11,15 +11,17 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
     - [Moeda 1](README.md#moeda-1)
 - [Dados](README.md#dados)
     - [Dado 1](README.md#dado-1)
+    - [Dado 2](README.md#dado-2)
 
 ### Moedas
 #### Moeda 1
-[50 pts 1978-78](moedas.md#Moeda-1)
+[50 pts 1978-78](doc/moedas.md#Moeda-1)
 
 
 ### Dados
 #### Dado 1
-[Icosahedro](dados.md#Dado-1)
+[Icosahedro](doc/dados.md#Dado-1)
+[Pirámide triangular](doc/dados.md#Dado-2)
 
 ### Doazóns
 🙇🙇‍♀
@@ -38,14 +40,16 @@ Group of files with real results of several random event generators.
     - [Coin 1](README.md#coin-1)
 - [Dices](README.md#dices)
     - [Dice 1](README.md#dice-1)
+    - [Dice 2](README.md#dice-2)
 
 ### Coins
 #### Coin 1
-[50 pts 1978-78](moedas.md#Moeda-1)
+[50 pts 1978-78](doc/moedas.md#Moeda-1)
 
 ### Dices
 #### Dice 1
-[Icosahedron](dados.md#Dado-1)
+[Icosahedron](doc/dados.md#Dado-1)
+[Triangular Pyramid](doc/dados.md#Dado-2)
 
 ### Donations
 🙇🙇‍♀
