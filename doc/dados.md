@@ -37,7 +37,17 @@ Sistema cuaternario usado:
 
 ### Dado 3
 [dado-3.txt](../src/dados/dado-3.txt)  
-<img src="../media/dado-3.jpg" width="100" alt="Imaxe do dado 3" title="Dado 3">  
+<img src="../media/dado-3.jpg" width="100" alt="Imaxe do dado 3" title="Dado 3">
+
+| Atributo  | Información     |
+|:--------: |:-----------:    |
+|   Tipo    |  Hecotahedro    |
+|   Caras   |      100        |
+
+Sistema cuaternario usado:
+|  Decimal     | 1     | 2     | 3     | 4     |
+|:---------:   |:-:    |:-:    |:-:    |:-:    |
+| Centesimal   | 1     | 2     | 3     | 0     |
 
 ## Index
 - [Dice 1: Icosahedron](dados.md#dice-1)
@@ -75,3 +85,13 @@ Sistema cuaternario usado:
 ### Dice 3
 [dice-3.txt](../src/dados/dado-3.txt)  
 <img src="../media/dado-3.jpg" width="100" alt="Image of dice 3" title="Dice 3">
+
+| Feature   | Information       |
+|:--------: |:-----------:      |
+|   Type    |  Hecotahedron     |
+|   Sides   |      4            |
+
+Sistema cuaternario usado:
+|  Denary      | 1     | 2     | 3     | 4     |
+|:---------:   |:-:    |:-:    |:-:    |:-:    |
+| Centesimal   | 1     | 2     | 3     | 0     |
