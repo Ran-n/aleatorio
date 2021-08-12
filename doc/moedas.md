@@ -1,6 +1,6 @@
 [🏠](../README.md)
-- [Galego](dados.md#índice)
-- [English](dados.md#index)
+- [Galego](moedas.md#índice)
+- [English](moedas.md#index)
 
 # Moedas
 ## Índice
