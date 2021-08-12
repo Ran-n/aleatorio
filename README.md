@@ -11,9 +11,9 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 - [Moedas](README.md#moedas)
     - [Moeda 1](README.md#moeda-1)
 - [Dados](README.md#dados)
-    - [Dado 1: Icosahedro](README.md#dado-1)
-    - [Dado 2: Tetrahedro truncado](README.md#dado-2)
-    - [Dado 3: Hectaedro](README.md#dado-3)
+    - [Dado 1: Icosahedro](doc/dados.md#dado-1)
+    - [Dado 2: Tetrahedro truncado](doc/dados.md#dado-2)
+    - [Dado 3: Hectaedro](doc/dados.md#dado-3)
 
 ### Escripts
 #### farranxo
@@ -30,17 +30,7 @@ Para sistemas centesimais.
 
 ### Moedas
 #### Moeda 1
-[50 pts 1978-78](doc/moedas.md#Moeda-1)
-
-### Dados
-#### Dado 1
-[Icosahedro](doc/dados.md#Dado-1)  
-
-#### Dado 2
-[Tetrahedro truncado](doc/dados.md#Dado-2)
-
-#### Dado 3
-[Hectaedro](doc/dados.md#Dado-3)
+[50 pts 1978-78](doc/moedas.md#moeda-1)
 
 ### Doazóns
 🙇🙇‍♀
@@ -59,9 +49,9 @@ Group of files with real results of several random event generators.
 - [Coins](README.md#coins)
     - [Coin 1](README.md#coin-1)
 - [Dices](README.md#dices)
-    - [Dice 1: Icosahedron](README.md#dice-1)
-    - [Dice 2: Truncated tetrahedron](README.md#dice-2)
-    - [Dice 3: Hecotahedron](README.md#dice-3)
+    - [Dice 1: Icosahedron](doc/dados.md#dado-1)
+    - [Dice 2: Truncated tetrahedron](doc/dados.md#dado-2)
+    - [Dice 3: Hecotahedron](doc/dados.md#dado-3)
 
 ### Scripts
 #### d4
@@ -75,17 +65,7 @@ For centesimal systems.
 
 ### Coins
 #### Coin 1
-[50 pts 1978-78](doc/moedas.md#Moeda-1)
-
-### Dices
-#### Dice 1
-[Icosahedron](doc/dados.md#Dado-1)  
-
-#### Dice 2
-[Truncated tetrahedron](doc/dados.md#Dado-2)
-
-#### Dice 3
-[Hecatohedron](doc/dados.md#Dado-3)
+[50 pts 1978-78](doc/moedas.md#moeda-1)
 
 ### Donations
 🙇🙇‍♀
