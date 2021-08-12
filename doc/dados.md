@@ -41,6 +41,7 @@ Sistema cuaternario usado:
 
 ### Dice 1
 <img src="../media/dado-1.jpg" width="100" alt="Image of dice 1" title="Dice 1">
+
 | Feature   | Information   |
 |:--------: |:-----------:  |
 |   Type    |  Icosahedro   |
