@@ -3,8 +3,9 @@
 - [English](dados.md#index)
 
 ## Índice
-- [Dado 1](dados.md#dado-1)
-- [Dado 2](dados.md#dado-2)
+- [Dado 1: Icosahedro](dados.md#dado-1)
+- [Dado 2: Tetrahedro](dados.md#dado-2)
+- [Dado 3: Hectaedro](dados.md#dado-3)
 
 ### Dado 1
 [dado-1.txt](../src/dados/dado-1.txt)  
@@ -24,21 +25,22 @@ Sistema Vixesimal usado:
 [dado-2.txt](../src/dados/dado-2.txt)  
 <img src="../media/dado-2.jpg" width="100" alt="Imaxe do dado 2" title="Dado 2">
 
-| Atributo  | Información                              |
-|:--------: |:-----------:                             |
-|   Tipo    |  Pirámide triangular de puntas truncadas |
-|   Caras   |      4                                   |
+| Atributo  | Información   |
+|:--------: |:-----------:  |
+|   Tipo    |  Tetrahedro   |
+|   Caras   |      4        |
 
 Sistema cuaternario usado:
 |  Decimal      | 1     | 2     | 3     | 4     |
 |:---------:    |:-:    |:-:    |:-:    |:-:    |
 | Cuaternario   | 1     | 2     | 3     | 0     |
 
+### Dado 3
 
 ## Index
-- [Dice 1](dados.md#dice-1)
-- [Dice 2](dados.md#dice-2)
-
+- [Dice 1: Icosahedron](dados.md#dice-1)
+- [Dice 2: Tetrahedron](dados.md#dice-2)
+- [Dice 2: Hecotahedron](dados.md#dice-3)
 
 ### Dice 1
 [dice-1.txt](../src/dados/dado-1.txt)  
@@ -67,3 +69,5 @@ Sistema cuaternario usado:
 |  Denary      | 1     | 2     | 3     | 4     |
 |:---------:   |:-:    |:-:    |:-:    |:-:    |
 | Quaternary   | 1     | 2     | 3     | 0     |
+
+### Dice 3
