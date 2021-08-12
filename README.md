@@ -1,8 +1,7 @@
-# Aleatorio
-
 - [Galego](README.md#índice)
 - [English](README.md#index)
 
+# Aleatorio
 ## Índice
 Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar aleatoriedade.
 
@@ -36,7 +35,7 @@ Para sistemas centesimais.
 | Monero    | 88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D   |
 | Wownero   | WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm |
 
-
+# Aleatorio (Random)
 ## Index
 Group of files with real results of several random event generators.
 
