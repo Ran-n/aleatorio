@@ -8,7 +8,8 @@
 - [Dado 2](dados.md#dado-2)
 
 ### Dado 1
-<img src="../media/dado-1.jpg" width="100" alt="Imaxe do dado 1" title="Dado 1">
+[dado-1.txt](../src/dados/dado-1.txt)  
+<img src="../media/dado-1.jpg" width="100" alt="Imaxe do dado 1" title="Dado 1">  
 
 | Atributo  | Información   |
 |:--------: |:-----------:  |
@@ -21,6 +22,7 @@ Sistema Vixesimal usado:
 | Vixesimal     | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     |  A    |  B    |  C    |  D    |  E    |  F    |  G    |  H    |  K    |  M    |  0    |
 
 ### Dado 2
+[dado-2.txt](../src/dados/dado-2.txt)  
 <img src="../media/dado-2.jpg" width="100" alt="Imaxe do dado 2" title="Dado 2">
 
 | Atributo  | Información                              |
@@ -40,6 +42,7 @@ Sistema cuaternario usado:
 
 
 ### Dice 1
+[dice-1.txt](../src/dados/dado-1.txt)  
 <img src="../media/dado-1.jpg" width="100" alt="Image of dice 1" title="Dice 1">
 
 | Feature   | Information   |
@@ -53,6 +56,7 @@ Vigesimal system used:
 | Vigesimal     | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     |  A    |  B    |  C    |  D    |  E    |  F    |  G    |  H    |  K    |  M    |  0    |
 
 ### Dice 2
+[dice-2.txt](../src/dados/dado-2.txt)  
 <img src="../media/dado-2.jpg" width="100" alt="Image of dice 2" title="Dice 2">
 
 | Feature   | Information                              |
