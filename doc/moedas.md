@@ -1,5 +1,5 @@
 # Moeda 1
-<img src="../media/moeda-1_cara.jpg" width="100" alt="Imaxe da cara da moeda 1" title="Moeda 1"> <img src="../media/moeda-1_cruz.jpg" width="100" alt="Imaxe da cruz da moeda 1" title="Moeda 1">
+<img src="../media/moeda-1_cara.jpg" width="150" alt="Imaxe da cara da moeda 1" title="Moeda 1"> <img src="../media/moeda-1_cruz.jpg" width="150" alt="Imaxe da cruz da moeda 1" title="Moeda 1">
 
 |   Atributo    |      Información      |
 |:-----------:  |:--------------------: |
