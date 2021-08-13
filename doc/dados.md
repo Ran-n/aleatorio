@@ -45,10 +45,8 @@ Sistema cuaternario usado:
 |   Tipo    |  Hecotahedro    |
 |   Caras   |      100        |
 
-Sistema cuaternario usado:
-|  Decimal     | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    | 11    | 12    | 13    | 14    | 15    | 16    | 17    | 18    | 19    | 20    | 21    | 22    | 23    | 24    | 25    | 26    | 27    | 28    | 29    | 30    | 31    | 32    | 33    | 34    | 35    | 36    | 37    | 38    | 39    | 40    |
-|:---------:   |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |
-| Centesimal   | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | A     | B     | C     | D     | E     | F     | G     | H     | K     | M     | N     | P    | R     | S     | T     | V     | W     | X     | Z     | \     | |     | #     | ~     | €     | ¬     | {     | }     | ,     | .     | -     | ;     |
+Sistema centesimal usado:
+
 
 # Dice
 ## Index
@@ -93,7 +91,7 @@ Sistema cuaternario usado:
 |   Type    |  Hecotahedron     |
 |   Sides   |      100          |
 
-Sistema cuaternario usado:
+Sistema centesimal usado:
 |  Denary      | 1     | 2     | 3     | 4     |
 |:---------:   |:-:    |:-:    |:-:    |:-:    |
 | Centesimal   | 1     | 2     | 3     | 0     |
