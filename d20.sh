@@ -15,6 +15,7 @@ porcentaxe() {
 # de meter máis variables das precisas da igual porque no no mira
 [ -z ${1+x} ] && echo 'Erro: Especifica o arquivo' && exit 0
 
+# nomeado do ficheiro temporal
 fich='.d20.temp'
 
 # tan só conservar caracteres con sentido
