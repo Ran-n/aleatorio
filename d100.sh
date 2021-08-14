@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	13/08/2021 10:50:11
-#+ Editado:	13/08/2021 12:10:11
+#+ Editado:	14/08/2021 10:34:19
 # -----------------------------------------
 
 porcentaxe() {
@@ -18,8 +18,9 @@ porcentaxe() {
 fich='.d100.temp'
 
 # tan só conserv10r caracteres con sentido
+# elimina as linhas que comecen por # ou/e en branco
 # crease un ficheiro temporal para non modificar o ficheiro dado
-cat $1 | tr '[:upper:]' '[:lower:]' | sed "s/[^0-9abcdefghkmnprstvwxyz,„;.:-_+*=÷ƒØ()¡!¿?'\"«»⌐¬^~&$€£¥¢@#%‰∞ßΓπΣµτφΩδε∩█▲■|§þ☻♥♦♣♠¶♪♫○•⌂♂♀↔]//g" > $fich
+sed '/^#/d' $1 | sed '/^$/d' | tr '[:upper:]' '[:lower:]' | sed "s/[^0-9abcdefghkmnprstvwxyz,„;.:-_+*=÷ƒØ()¡!¿?'\"«»⌐¬^~&$€£¥¢@#%‰∞ßΓπΣµτφΩδε∩█▲■|§þ☻♥♦♣♠¶♪♫○•⌂♂♀↔]//g" > $fich
 
 vtotal=$(wc -c $fich | cut -d' ' -f1)
 v0=$(grep -o 0 $fich | wc -l)
