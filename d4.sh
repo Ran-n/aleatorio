@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	12/08/2021 15:46:17
-#+ Editado:	14/08/2021 10:28:51
+#+ Editado:	14/08/2021 10:32:54
 # -----------------------------------------
 
 porcentaxe() {
@@ -15,6 +15,7 @@ porcentaxe() {
 # de meter máis variables das precisas da igual porque no no mira
 [ -z ${1+x} ] && echo 'Erro: Especifica o arquivo' && exit 0
 
+# nomeado do ficheiro temporal
 fich='.d4.temp'
 
 # eliminanse as liñas que comezan por # ou estan baleiras
