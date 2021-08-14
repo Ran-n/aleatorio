@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	12/08/2021 15:46:17
-#+ Editado:	12/08/2021 15:59:25
+#+ Editado:	14/08/2021 10:28:51
 # -----------------------------------------
 
 porcentaxe() {
@@ -15,13 +15,20 @@ porcentaxe() {
 # de meter máis variables das precisas da igual porque no no mira
 [ -z ${1+x} ] && echo 'Erro: Especifica o arquivo' && exit 0
 
-fich=$1
+fich='.d4.temp'
+
+# eliminanse as liñas que comezan por # ou estan baleiras
+# tamén todos os caracteres que non son os esperados
+sed '/^#/d' $1 | sed '/^$/d' | sed 's/[^0123]//g' > $fich
 
 vtotal=$(wc -c $fich | cut -d' ' -f1)
 v0=$(grep -o 0 $fich | wc -l)
 v1=$(grep -o 1 $fich | wc -l)
 v2=$(grep -o 2 $fich | wc -l)
 v3=$(grep -o 3 $fich | wc -l)
+
+# eliminase o ficheiro temporal
+rm $fich
 
 echo ''
 echo -n 'Porcentaxes ['$((100/4))'%]'; echo -n '\t'; echo 'Veces ['$vtotal']'
