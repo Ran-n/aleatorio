@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 13:43:04
-#+ Editado:	14/08/2021 10:23:04
+#+ Editado:	14/08/2021 10:35:10
 # -----------------------------------------
 
 porcentaxe() {
@@ -19,7 +19,7 @@ porcentaxe() {
 fich='.d20.temp'
 
 # tan só conservar caracteres con sentido
-# elimina as liñas que comecen por # e en branco
+# elimina as linhas que comecen por # ou/e en branco
 # crease un ficheiro temporal para non modificar o ficheiro dado
 sed '/^#/d' $1 | sed '/^$/d' | tr '[:upper:]' '[:lower:]' | sed 's/[^0-9abcdefghkm]//g' > $fich
 
