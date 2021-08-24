@@ -2,7 +2,7 @@
 # -----------------------------------------
 #+ Autor:	Ran#
 #+ Creado:	14/07/2021 13:43:04
-#+ Editado:	14/08/2021 10:35:10
+#+ Editado:	24/08/2021 23:57:58
 # -----------------------------------------
 
 porcentaxe() {
@@ -21,7 +21,7 @@ fich='.d20.temp'
 # tan só conservar caracteres con sentido
 # elimina as linhas que comecen por # ou/e en branco
 # crease un ficheiro temporal para non modificar o ficheiro dado
-sed '/^#/d' $1 | sed '/^$/d' | tr '[:upper:]' '[:lower:]' | sed 's/[^0-9abcdefghkm]//g' > $fich
+sed '/^#/d' $1 | sed '/^$/d' | tr -d '\n' | tr '[:upper:]' '[:lower:]' | sed 's/[^0-9abcdefghkm]//g' > $fich
 
 v20=$(wc -c $fich | cut -d' ' -f1)
 v0=$(grep -o 0 $fich | wc -l)
