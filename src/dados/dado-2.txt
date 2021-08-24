@@ -1,4 +1,4 @@
-#! Dado de 4 caras. Tetrahedro truncado.
+#+ Dado de 4 caras. Tetrahedro truncado.
 #+ Autor:	Ran#
 #+ Creado:	14/08/2021 10:29:20
 #+ Editado:	14/08/2021 10:29:20
