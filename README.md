@@ -12,12 +12,12 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 - [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Escripts](README.md#escripts)
-- [Moedas](doc/moedas.md#indice)
-    - [Moeda 1: 50 pts 1978-78](doc/moedas.md#moeda-1)
-- [Dados](README.md#dados)
-    - [Dado 1: Icosahedro](doc/dados.md#dado-1)
-    - [Dado 2: Tetrahedro truncado](doc/dados.md#dado-2)
-    - [Dado 3: Hectaedro](doc/dados.md#dado-3)
+- [Moedas](doc/moedas/moedas_gz.md#indice)
+    - [Moeda 1: 50 pts 1978-78](doc/moedas/moedas_gz.md#moeda-1)
+- [Dados](doc/dados/dados_gz#indice)
+    - [Dado 1: Icosahedro](doc/dados/dados_gz.md#dado-1)
+    - [Dado 2: Tetrahedro truncado](doc/dados/dados_gz.md#dado-2)
+    - [Dado 3: Hectaedro](doc/dados/dados_gz.md#dado-3)
 
 ### Escripts
 #### farranxo
