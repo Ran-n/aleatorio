@@ -10,7 +10,7 @@
 
 ## Índice
 - [Dado 1: Icosahedro](dados_gz.md#dado-1)
-- [Dado 2: Tetrahedro truncado](dados_Gz.md#dado-2)
+- [Dado 2: Tetrahedro truncado](dados_gz.md#dado-2)
 - [Dado 3: Hectaedro](dados_gz.md#dado-3)
 
 ### Dado 1
