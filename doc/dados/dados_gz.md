@@ -9,9 +9,9 @@
 ---
 
 ## Índice
-- [Dado 1: Icosahedro](dados.md#dado-1)
-- [Dado 2: Tetrahedro truncado](dados.md#dado-2)
-- [Dado 3: Hectaedro](dados.md#dado-3)
+- [Dado 1: Icosahedro](dados_gz.md#dado-1)
+- [Dado 2: Tetrahedro truncado](dados_Gz.md#dado-2)
+- [Dado 3: Hectaedro](dados_gz.md#dado-3)
 
 ### Dado 1
 [dado-1.txt](https://github.com/Ran-n/aleatorio/blob/main/src/dados/dado-1.txt)  
