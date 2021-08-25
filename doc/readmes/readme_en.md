@@ -13,12 +13,12 @@ Group of files with real results of several random event generators.
 
 - [Donations](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Scripts](readme_en.md#scripts)
-- [Coins](../moedas.md#index)
-    - [Coin 1: 50 pts 1978-78](doc/moedas.md#moeda-1)
-- [Dices](../dados.md#index)
+- [Coins](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md#index)
+    - [Coin 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md#moeda-1)
+- [Dices](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#index)
     - [Dice 1: Icosahedron](../dados.md#dado-1)
-    - [Dice 2: Truncated tetrahedron](../dados.md#dado-2)
-    - [Dice 3: Hecotahedron](../dados.md#dado-3)
+    - [Dice 2: Truncated tetrahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dado-2)
+    - [Dice 3: Hecotahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dado-3)
 
 ### Scripts
 #### d4
