@@ -29,7 +29,7 @@ Para sistemas cuaternarios.
 #### d20
 Para sistemas vixesimales.
 
-### d100
+#### d100
 Para sistemas centesimais.
 
 ### Doazóns 🙇🙇‍♀
