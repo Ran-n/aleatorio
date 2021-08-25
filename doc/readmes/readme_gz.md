@@ -13,9 +13,9 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 - [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Escripts](readme_gz.md#escripts)
-- [Moedas](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_gz.md#indice)
+- [Moedas](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_gz.md)
     - [Moeda 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_gz.md#moeda-1)
-- [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#indice)
+- [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md)
     - [Dado 1: Icosahedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#dado-1)
     - [Dado 2: Tetrahedro truncado](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#dado-2)
     - [Dado 3: Hectaedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#dado-3)
