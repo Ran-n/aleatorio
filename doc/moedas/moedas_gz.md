@@ -8,7 +8,6 @@
 <img align="center">
 ---
 
-
 ## Índice
 - [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Moeda 1](moedas.md#moeda-1)
@@ -31,7 +30,6 @@
 
 [Info in ucoin.net (en)](https://en.ucoin.net/coin/spain-50-pesetas-1975/?tid=9331)  
 [Info en ucoin.net (cas)](https://es.ucoin.net/coin/spain-50-pesetas-1975/?tid=9331)
-
 
 # Doazóns 🙇🙇‍♀
 
