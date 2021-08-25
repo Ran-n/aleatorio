@@ -25,7 +25,7 @@ Group of files with real results of several random event generators.
 For quaternary systems.
 
 #### d20
-For vigesinal systems.
+For vigesimal systems.
 
 #### d100
 For centesimal systems.
