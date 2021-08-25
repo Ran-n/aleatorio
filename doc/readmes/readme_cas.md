@@ -12,7 +12,7 @@
 Conjunto de ficheros con los resultados de varios métodos reales para intentar buscar aleatoriedad.
 
 - [Donaciones](https://github.com/Ran-n/doc/blob/main/doazóns.md)
-- [Escripts](readme_gz.md#escripts)
+- [Escripts](readme_cas.md#escripts)
 - [Monedas](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_cas.md)
     - [Moneda 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_cas.md#moeda-1)
 - [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_cas.md)
