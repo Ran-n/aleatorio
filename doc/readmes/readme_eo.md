@@ -1,4 +1,4 @@
-# Aleatorio () [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
+# Aleatorio (Hazard) [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 
 [<img align="left" src="https://github.com/Ran-n/media/blob/main/emojis/casa.svg" width="20" alt="inicio" title="Inicio">](https://github.com/Ran-n/aleatorio/blob/main/README.md)
 
