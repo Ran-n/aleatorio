@@ -14,11 +14,11 @@ Group of files with real results of several random event generators.
 - [Donations](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Scripts](readme_en.md#scripts)
 - [Coins](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md)
-    - [Coin 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md#moeda-1)
+    - [Coin 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md#coin-1)
 - [Dices](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md)
-    - [Dice 1: Icosahedron](../dados.md#dado-1)
-    - [Dice 2: Truncated tetrahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dado-2)
-    - [Dice 3: Hecotahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dado-3)
+    - [Dice 1: Icosahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dice-1)
+    - [Dice 2: Truncated tetrahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dice-2)
+    - [Dice 3: Hecotahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dice-3)
 
 ### Scripts
 #### d4
