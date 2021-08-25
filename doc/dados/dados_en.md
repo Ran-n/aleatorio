@@ -9,9 +9,9 @@
 ---
 
 ## Index
-- [Dice 1: Icosahedron](dados.md#dice-1)
-- [Dice 2: Truncated Tetrahedron](dados.md#dice-2)
-- [Dice 2: Hecotahedron](dados.md#dice-3)
+- [Dice 1: Icosahedron](dados_en.md#dice-1)
+- [Dice 2: Truncated Tetrahedron](dados_en.md#dice-2)
+- [Dice 2: Hecotahedron](dados_en.md#dice-3)
 
 ### Dice 1
 [dice-1.txt](https://github.com/Ran-n/aleatorio/blob/main/src/dados/dado-1.txt)  
