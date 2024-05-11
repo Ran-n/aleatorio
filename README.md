@@ -1,5 +1,12 @@
-[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](doc/readmes/readme_gz.md)
+﻿[//]: # ( -*- coding: utf-8 -*- )
+[//]: # ( ---------------------------------------------------------------------- )
+[//]: # (+ Autor:  	Ran# )
+[//]: # (+ Creado: 	2024/05/11 17:18:24.658918 )
+[//]: # (+ Editado:	2024/05/11 17:18:24.658918 )
+[//]: # ( ---------------------------------------------------------------------- )
+
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](doc/readmes/readme_en.md)
+[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](doc/readmes/readme_gz.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readmes/readme_eo.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](doc/readmes/readme_cas.md)
 <img align="center">
@@ -7,32 +14,32 @@
 
 # Aleatorio
 
-## Índice
-Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar aleatoriedade.
+## Index
+Group of files with real results of several random event generators.
 
-- [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
-- [Escripts](README.md#escripts)
-- [Moedas](doc/moedas/moedas_gz.md#indice)
-    - [Moeda 1: 50 pts 1978-78](doc/moedas/moedas_gz.md#moeda-1)
-- [Dados](doc/dados/dados_gz#indice)
-    - [Dado 1: Icosahedro](doc/dados/dados_gz.md#dado-1)
-    - [Dado 2: Tetrahedro truncado](doc/dados/dados_gz.md#dado-2)
-    - [Dado 3: Hectaedro](doc/dados/dados_gz.md#dado-3)
+- [Donations](https://github.com/Ran-n/doc/blob/main/doazóns.md)
+- [Scripts](README.md#scripts)
+- [Coins](doc/coins/coins_en.md#index)
+    - [Coin 1: 50 pts 1978-78](doc/coins/coins_en.md#coin-1)
+- [Dices](doc/dices/dices_en#index)
+    - [Dice 1: Icosahedron](doc/dices/dados_gz.md#dice-1)
+    - [Dice 2: Truncated tetrahedron](doc/dices/dice_en.md#dice-2)
+    - [Dice 3: Hectaedron](doc/dices/dices_en.md#dice-3)
 
-### Escripts
+### Scripts
 #### ffix
-Arranxa os ficheiros para que tan só conteñan os caracteres permitidos segundo o tipo de dado
+Fixes the files so they only can contain the allowed characters according to each dice type.
 
 #### d4
-Para sistemas cuaternarios.
+For quaternary systems.
 
 #### d20
-Para sistemas vixesimales.
+For vigesimal systems.
 
 #### d100
-Para sistemas centesimais.
+For centesimal systems.
 
-### Doazóns 🙇🙇‍♀
+### Donations 🙇🙇‍♀
 
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin_0.svg" width="20" alt="bitcoin logo" title="Bitcoin">  
 bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
