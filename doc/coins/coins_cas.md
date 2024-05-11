@@ -1,3 +1,10 @@
+﻿[//]: # ( -*- coding: utf-8 -*- )
+[//]: # ( ---------------------------------------------------------------------- )
+[//]: # (+ Autor:  	Ran# )
+[//]: # (+ Creado: 	2024/05/11 17:37:54.924581 )
+[//]: # (+ Editado:	2024/05/11 17:37:54.924581 )
+[//]: # ( ---------------------------------------------------------------------- )
+
 # Monedas [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/cas-0.svg" width="28" alt="castellano" title="Castellano">](moedas_cas.md)
 
 [<img align="left" src="https://github.com/Ran-n/media/blob/main/emojis/casa.svg" width="20" alt="inicio" title="Inicio">](https://github.com/Ran-n/aleatorio/blob/main/doc/readmes/readme_cas.md)
