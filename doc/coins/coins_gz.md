@@ -12,7 +12,7 @@
 - [Moeda 1](moedas.md#moeda-1)
 
 # Moeda 1
-[moeda-1.txt](https://github.com/Ran-n/aleatorio/blob/main/src/moedas/coin-1_50pts1975-78.txt)  
+[moeda-1.txt](https://github.com/Ran-n/aleatorio/blob/main/src/coins/coin-1_50pts1975-78.txt)  
 <img src="https://github.com/Ran-n/aleatorio/blob/main/media/moedas/moeda-1_cara.jpg" width="150" alt="Imaxe da cara da moeda 1" title="Cara da moeda 1"> <img src="https://github.com/Ran-n/aleatorio/blob/main/media/moedas/moeda-1_cruz.jpg" width="150" alt="Imaxe da cruz da moeda 1" title="Cruz da moeda 1">
 
 |   Atributo    |      Información      |
