@@ -1,7 +1,6 @@
 # Aleatorio (Random) [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](readme_en.md)
 
 [<img align="left" src="https://github.com/Ran-n/media/blob/main/emojis/casa_0.svg" width="20" alt="inicio" title="Inicio">](https://github.com/Ran-n/aleatorio/blob/main/README.md)
-
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
@@ -13,12 +12,12 @@ Group of files with real results of several random event generators.
 
 - [Donations](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Scripts](readme_en.md#scripts)
-- [Coins](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md)
-    - [Coin 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_en.md#coin-1)
-- [Dices](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md)
-    - [Dice 1: Icosahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dice-1)
-    - [Dice 2: Truncated tetrahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dice-2)
-    - [Dice 3: Hecotahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_en.md#dice-3)
+- [Coins](https://github.com/Ran-n/aleatorio/blob/main/doc/coins/coins_en.md)
+    - [Coin 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/coins/coins_en.md#coin-1)
+- [Dices](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_en.md)
+    - [Dice 1: Icosahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_en.md#dice-1)
+    - [Dice 2: Truncated tetrahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_en.md#dice-2)
+    - [Dice 3: Hecotahedron](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_en.md#dice-3)
 
 ### Scripts
 #### d4

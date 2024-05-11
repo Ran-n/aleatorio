@@ -1,7 +1,6 @@
-# Aleatorio [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
+﻿# Aleatorio [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
 
 [<img align="left" src="https://github.com/Ran-n/media/blob/main/emojis/casa_0.svg" width="20" alt="inicio" title="Inicio">](https://github.com/Ran-n/aleatorio/blob/main/README.md)
-
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](readme_en.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
@@ -13,16 +12,16 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
 
 - [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Escripts](readme_gz.md#escripts)
-- [Moedas](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_gz.md)
-    - [Moeda 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_gz.md#moeda-1)
-- [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md)
-    - [Dado 1: Icosahedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#dado-1)
-    - [Dado 2: Tetrahedro truncado](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#dado-2)
-    - [Dado 3: Hectaedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_gz.md#dado-3)
+- [Moedas](https://github.com/Ran-n/aleatorio/blob/main/doc/coins/coins_gz.md)
+    - [Moeda 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/coins/coins_gz.md#coin-1)
+- [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_gz.md)
+    - [Dado 1: Icosahedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_gz.md#dice-1)
+    - [Dado 2: Tetrahedro truncado](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_gz.md#dice-2)
+    - [Dado 3: Hectaedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_gz.md#dice-3)
 
 ### Escripts
 #### farranxo
-Arranxa os ficheiros para que tan só conteñan os caracteres permitidos segundo o tipo de dado
+Arranxa os ficheiros para que tan só conteñan os caracteres permitidos segundo o tipo de dado.
 
 #### d4
 Para sistemas cuaternarios.

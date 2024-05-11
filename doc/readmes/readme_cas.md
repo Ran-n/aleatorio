@@ -2,7 +2,7 @@
 [//]: # ( ---------------------------------------------------------------------- )
 [//]: # (+ Autor:  	Ran# )
 [//]: # (+ Creado: 	2024/05/11 17:12:02.998567 )
-[//]: # (+ Editado:	2024/05/11 17:12:21.784890 )
+[//]: # (+ Editado:	2024/05/11 17:34:21.788393 )
 [//]: # ( ---------------------------------------------------------------------- )
 
 # Aleatorio [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
@@ -19,16 +19,16 @@ Conjunto de ficheros con los resultados de varios métodos reales para intentar 
 
 - [Donaciones](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Escripts](readme_cas.md#escripts)
-- [Monedas](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_cas.md)
-    - [Moneda 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/moedas/moedas_cas.md#moeda-1)
-- [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_cas.md)
-    - [Dado 1: Icosahedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_cas.md#dado-1)
-    - [Dado 2: Tetrahedro truncado](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_cas.md#dado-2)
-    - [Dado 3: Hectaedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dados/dados_cas.md#dado-3)
+- [Monedas](https://github.com/Ran-n/aleatorio/blob/main/doc/coins/coins_cas.md)
+    - [Moneda 1: 50 pts 1978-78](https://github.com/Ran-n/aleatorio/blob/main/doc/coins/coins_cas.md#coin-1)
+- [Dados](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_cas.md)
+    - [Dado 1: Icosahedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_cas.md#dice-1)
+    - [Dado 2: Tetrahedro truncado](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_cas.md#dice-2)
+    - [Dado 3: Hectaedro](https://github.com/Ran-n/aleatorio/blob/main/doc/dices/dices_cas.md#dice-3)
 
 ### Escripts
-#### farranxo
-Arregla los ficheros para que tan solo contengan los caracteres permitidos segun el tipo de dado
+#### ffix
+Arregla los ficheros para que tan solo contengan los caracteres permitidos segun el tipo de dice
 
 #### d4
 Para sistemas cuaternarios.
