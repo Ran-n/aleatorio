@@ -20,7 +20,7 @@ Conxunto de ficheiros cos resultados de varios métodos reais para tentar buscar
     - [Dado 3: Hectaedro](doc/dados/dados_gz.md#dado-3)
 
 ### Escripts
-#### farranxo
+#### ffix
 Arranxa os ficheiros para que tan só conteñan os caracteres permitidos segundo o tipo de dado
 
 #### d4
