@@ -49,27 +49,27 @@ vm=$(grep -o m $fich | wc -l)
 rm $fich
 
 echo ''
-echo -n 'Porcentaxes ['$((100/20))'%]'; echo -n '\t'; echo 'Veces ['$v20']'
-echo -n '0: '; porcentaxe $v0 $v20; echo -n '\t\t'; echo '0: '$v0
-echo -n '1: '; porcentaxe $v1 $v20; echo -n '\t\t'; echo '1: '$v1
-echo -n '2: '; porcentaxe $v2 $v20; echo -n '\t\t'; echo '2: '$v2
-echo -n '3: '; porcentaxe $v3 $v20; echo -n '\t\t'; echo '3: '$v3
-echo -n '4: '; porcentaxe $v4 $v20; echo -n '\t\t'; echo '4: '$v4
-echo -n '5: '; porcentaxe $v5 $v20; echo -n '\t\t'; echo '5: '$v5
-echo -n '6: '; porcentaxe $v6 $v20; echo -n '\t\t'; echo '6: '$v6
-echo -n '7: '; porcentaxe $v7 $v20; echo -n '\t\t'; echo '7: '$v7
-echo -n '8: '; porcentaxe $v8 $v20; echo -n '\t\t'; echo '8: '$v8
-echo -n '9: '; porcentaxe $v9 $v20; echo -n '\t\t'; echo '9: '$v9
-echo -n 'A: '; porcentaxe $va $v20; echo -n '\t\t'; echo 'A: '$va
-echo -n 'B: '; porcentaxe $vb $v20; echo -n '\t\t'; echo 'B: '$vb
-echo -n 'C: '; porcentaxe $vc $v20; echo -n '\t\t'; echo 'C: '$vc
-echo -n 'D: '; porcentaxe $vd $v20; echo -n '\t\t'; echo 'D: '$vd
-echo -n 'E: '; porcentaxe $ve $v20; echo -n '\t\t'; echo 'E: '$ve
-echo -n 'F: '; porcentaxe $vf $v20; echo -n '\t\t'; echo 'F: '$vf
-echo -n 'G: '; porcentaxe $vg $v20; echo -n '\t\t'; echo 'G: '$vg
-echo -n 'H: '; porcentaxe $vh $v20; echo -n '\t\t'; echo 'H: '$vh
-echo -n 'K: '; porcentaxe $vk $v20; echo -n '\t\t'; echo 'K: '$vk
-echo -n 'M: '; porcentaxe $vm $v20; echo -n '\t\t'; echo 'M: '$vm
+echo -n 'Porcentaxes ['$((100/20))'%]'; echo -en '\t'; echo 'Veces ['$v20']'
+echo -n '0: '; porcentaxe $v0 $v20; echo -en '\t\t'; echo '0: '$v0
+echo -n '1: '; porcentaxe $v1 $v20; echo -en '\t\t'; echo '1: '$v1
+echo -n '2: '; porcentaxe $v2 $v20; echo -en '\t\t'; echo '2: '$v2
+echo -n '3: '; porcentaxe $v3 $v20; echo -en '\t\t'; echo '3: '$v3
+echo -n '4: '; porcentaxe $v4 $v20; echo -en '\t\t'; echo '4: '$v4
+echo -n '5: '; porcentaxe $v5 $v20; echo -en '\t\t'; echo '5: '$v5
+echo -n '6: '; porcentaxe $v6 $v20; echo -en '\t\t'; echo '6: '$v6
+echo -n '7: '; porcentaxe $v7 $v20; echo -en '\t\t'; echo '7: '$v7
+echo -n '8: '; porcentaxe $v8 $v20; echo -en '\t\t'; echo '8: '$v8
+echo -n '9: '; porcentaxe $v9 $v20; echo -en '\t\t'; echo '9: '$v9
+echo -n 'A: '; porcentaxe $va $v20; echo -en '\t\t'; echo 'A: '$va
+echo -n 'B: '; porcentaxe $vb $v20; echo -en '\t\t'; echo 'B: '$vb
+echo -n 'C: '; porcentaxe $vc $v20; echo -en '\t\t'; echo 'C: '$vc
+echo -n 'D: '; porcentaxe $vd $v20; echo -en '\t\t'; echo 'D: '$vd
+echo -n 'E: '; porcentaxe $ve $v20; echo -en '\t\t'; echo 'E: '$ve
+echo -n 'F: '; porcentaxe $vf $v20; echo -en '\t\t'; echo 'F: '$vf
+echo -n 'G: '; porcentaxe $vg $v20; echo -en '\t\t'; echo 'G: '$vg
+echo -n 'H: '; porcentaxe $vh $v20; echo -en '\t\t'; echo 'H: '$vh
+echo -n 'K: '; porcentaxe $vk $v20; echo -en '\t\t'; echo 'K: '$vk
+echo -n 'M: '; porcentaxe $vm $v20; echo -en '\t\t'; echo 'M: '$vm
 echo ''
 
 # -----------------------------------------
